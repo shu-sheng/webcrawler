@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>webcrawle-assemble</module>
+        <module>webcrawler-assemble</module>
         <module>webcrawler-common</module>
         <module>webcrawler-web</module>
         <module>webcrawler-dal</module>
